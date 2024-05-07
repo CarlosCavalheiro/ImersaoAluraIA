@@ -17,10 +17,10 @@ Este repositório contém um script Python que analisa um arquivo CSV de histór
 
 ## Como usar
 
-1. Clone o repositório:
+1. Clone o repositório: 
 
 ```
-git clone https://github.com/CarlosCavalheiro/ImersaoAluraIA/history-analyzer.git
+git clone https://github.com/CarlosCavalheiro/ImersaoAluraIA.git
 
 ```
 
